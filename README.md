@@ -13,7 +13,7 @@ We don't have boats
 We are experienced
 We want experiences
 
-## 🚢 Join
+## 🚢 Membership
 If you identify with who we are and want to connect with a passionate group of long distance motoryacht passage makers then our group might be for you.
 
 When you join you will gain access to:
@@ -22,24 +22,12 @@ When you join you will gain access to:
 - private information repository with information to help you assess, purchase and maintain your passage maker
 - conttribute to our information repository and learn how to use it for your own passage makinge experience
 
-Membership is USD 100 per year and you can sign up by filling out this stripe form: [KochADV Annual Membership](https://buy.stripe.com/bIY6qHcePaJkavS9AA)
+Membership is USD 100 per year and 
+
+## 🚢 Join
+You can sign up by filling out this stripe form: [KochADV Annual Membership](https://buy.stripe.com/bIY6qHcePaJkavS9AA)
 
 Within 24 hours of signing up you will receive invites to our meetings, private chat group and access to our information repository.
 
 If you have questions please write to Richard at merwester74@gmail.com [](mailto:merwester74@gmail.com)
 
-[mailto:merwester74@gmail.com]
-
-**KochADV/KochADV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
