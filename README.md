@@ -22,10 +22,9 @@ When you join you will gain access to:
 - private information repository with information to help you assess, purchase and maintain your passage maker
 - conttribute to our information repository and learn how to use it for your own passage makinge experience
 
-Membership is USD 100 per year and 
 
 ## 🚢 Join
-You can sign up by filling out this stripe form: [KochADV Annual Membership](https://buy.stripe.com/bIY6qHcePaJkavS9AA)
+Membership is USD 100 per year and you can sign up by clicking this stripe link: [KochADV Annual Membership](https://buy.stripe.com/bIY6qHcePaJkavS9AA)
 
 Within 24 hours of signing up you will receive invites to our meetings, private chat group and access to our information repository.
 
