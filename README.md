@@ -26,7 +26,7 @@ Membership is USD 100 per year and you can sign up by filling out this stripe fo
 
 Within 24 hours of signing up you will receive invites to our meetings, private chat group and access to our information repository.
 
-If you have questions please write to Richard at merwester74@gmail.com [merwester74@gmail.com](mailto:merwester74@gmail.com)
+If you have questions please write to Richard at merwester74@gmail.com [](mailto:merwester74@gmail.com)
 
 [mailto:merwester74@gmail.com]
 
